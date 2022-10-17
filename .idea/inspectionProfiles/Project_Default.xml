@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="data_type.for_if_01.demo2.driver" />
+          <option value="webbrowser1.requests_03.soup" />
+          <option value="class15" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
