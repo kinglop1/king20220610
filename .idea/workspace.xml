@@ -45,11 +45,19 @@
       <option name="project" value="LOCAL" />
       <updated>1665999105912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="接口自动化">
+      <created>1666000227526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666000227526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="driver底层逻辑" />
-    <option name="LAST_COMMIT_MESSAGE" value="driver底层逻辑" />
+    <MESSAGE value="接口自动化" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口自动化" />
   </component>
 </project>
